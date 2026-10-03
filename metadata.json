@@ -1,0 +1,6 @@
+{
+  "name": "Next-Gen Healthcare: Smart Autonomous Clinic",
+  "description": "An interactive academic prototype exploring Artificial Intelligence, Machine Learning, IoT sensors, healthcare databases, REST APIs, and route visualization for modern smart clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
